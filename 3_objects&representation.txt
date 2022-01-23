@@ -1,3 +1,0 @@
-Objects and its internal representation in Javascript :
-
-https://thamizhanbandeveloper.blogspot.com/2022/01/objects-and-its-internal-representation.html
